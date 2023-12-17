@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+}
+
+.store-landing{
+  width: 40%;
+  background-color: #f8d5d8c7;
+
+  /* // marginTop: "50%", */
+  text-align: center;
+  border: 10px solid #675C5B ;
+  border-radius: 2rem;
+  border-style:dashed;
+  font-family: Great Vibes;
+  margin-top: 3.6rem;
+  
+}
+.m_button{
+  font-family: poppins;
+  font-size: 1.5rem;
+  width: 12rem;
+  height: 3rem;
+}
+input{
+  outline-style: dashed;
+  outline-color: #675c5ba6;
+  
+}
+.user-manage{
+  color: white;
+}
+@media (min-width: 1025px) {
+  .h-custom {
+  height: 100vh !important;
+  }
+  }
